@@ -1,0 +1,13 @@
+notMNIST_large/
+notMNIST_small/
+notMNIST_large.tar.gz
+notMNIST_small.tar.gz
+
+*.pyc
+*.log
+
+venv/
+.idea/
+**/.DS_Store
+
+.ipynb_checkpoints/
